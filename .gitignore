@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
